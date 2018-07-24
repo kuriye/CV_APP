@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CvApp</string>
+    <string name="name">name: Boudewijn Groeneboer</string>
+    <string name="birthday">birthday: 24-09-1999</string>
+</resources>
